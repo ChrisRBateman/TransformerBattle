@@ -3,7 +3,7 @@ TransformerBattle
 
 Java Application Demo
 
-Perform a battle between the Autobots and the Decepticons
+Perform a battle between the Autobots and the Decepticons.
  
 Takes input that describes a group of Transformers and based on that group displays:
  
