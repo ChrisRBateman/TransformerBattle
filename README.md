@@ -42,11 +42,15 @@ Install JDK SE 8 or later http://www.oracle.com/technetwork/java/javase/download
 
 Run from a command prompt to build:
 
-	> javac TransformerBattle.java
+```
+$ javac TransformerBattle.java
+```
 	
 Then run:
 
-	> java TransformerBattle data001.txt
+```
+$ java TransformerBattle data001.txt
+```
 
 The parameter should be a file name. The format of each line is:
 
